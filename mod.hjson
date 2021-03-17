@@ -1,0 +1,8 @@
+name: "a new mod"
+displayName: "it's a mod"
+author: Yourself
+description: "in developpement"
+version: "1.0"
+minGameVersion: "126.1"
+dependencies: [ ]
+hidden: false
