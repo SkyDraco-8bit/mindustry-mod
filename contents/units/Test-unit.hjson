@@ -1,5 +1,5 @@
 type: legs
-name: test-unit
+name: test_unit
 description: Fires a Sap bullets and big large laser.
 drag: 0.1
 speed: 0.5
